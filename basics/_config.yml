@@ -1,0 +1,15 @@
+# Site settings
+title: ML Basics
+email: prabhav.iitd@gmail.com
+description: "Notes related to machine learning fundamental, and recent trends"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
